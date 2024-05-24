@@ -6,7 +6,7 @@ pkg install git
 pkg install python
 git clone https://github.com/PRIVATE001/DDoS_ripper.git
 cd DDoS_ripper
-python ddosfull.py [-i] [-p] [-l]
+python KlarDdos.py [-i] [-p] [-l]
 ```
 ```
 e.g)
