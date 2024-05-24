@@ -413,4 +413,3 @@ if __name__ == "__main__":
             sleep(2)
             usage()
             usage1()
-       ddosfull.py
