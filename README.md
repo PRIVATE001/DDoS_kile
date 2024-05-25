@@ -4,8 +4,8 @@
 ```
 pkg install git
 pkg install python
-git clone https://github.com/PRIVATE001/DDoS_ripper.git
-cd DDoS_ripper
+git clone https://github.com/PRIVATE001/DDoS_kile.git
+cd DDoS_kile 
 python KlarDdos.py [-i] [-p] [-l]
 ```
 ```
